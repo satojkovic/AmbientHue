@@ -16,5 +16,9 @@ def main():
     for l in lights:
         print l.name
 
+    print b.username
+    print b.name
+    print b.ip
+
 if __name__ == '__main__':
     main()
